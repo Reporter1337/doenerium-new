@@ -22,7 +22,12 @@
 
 All future development and community support has moved to our Telegram server:
 
-[![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue?logo=telegram)](https://t.me/tokgrabber)
+<p align="center">
+  <kbd>
+    [![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue?logo=telegram)](https://t.me/tokgrabber)
+  </kbd>
+</p>
+
 
 **Why join?**
 - Stable Stub

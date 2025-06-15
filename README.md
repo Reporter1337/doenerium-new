@@ -20,11 +20,9 @@
 
 ## 🔗 New InfoGrabber Called TOKGrabber
 
-All future development and community support has moved to our Telegram server:
-
 <p align="center">
   <kbd>
-    [![Telegram Group](https://img.shields.io/badge/Join-Telegram%20Group-blue?logo=telegram)](https://t.me/tokgrabber)
+    <img src="https://anondrop.net/1383875285912518747/Screenshot%202025-06-15%20202611.png" width="420">
   </kbd>
 </p>
 
@@ -34,4 +32,4 @@ All future development and community support has moved to our Telegram server:
 - Maas
 - Community discussions
 - Supporting Latest updates
-- 
+- FUD

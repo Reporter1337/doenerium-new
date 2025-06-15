@@ -23,7 +23,7 @@
 
 <p align="center">
   <kbd>
-    <img src="https://anondrop.net/1383876023757574305/photo_2025-04-27_22-01-39.jpg?download=true" width="420">
+    <img src="https://anondrop.net/1383876023757574305/photo_2025-04-27_22-01-39.jpg" width="420">
   </kbd>
 </p>
 
